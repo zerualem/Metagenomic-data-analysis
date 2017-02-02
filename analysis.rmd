@@ -4,6 +4,14 @@ author: "Zerihun A Bekele"
 date: "February 2, 2017"
 output: html_document
 ---
+#Analysis for Earth523
+
+Today, I am learning how to write in **Rmarkdown**. So far, I have learned that I can:
+- Write text describing my analysis
+- Embed code with codue chunks
+- Create HTMML, pdf or word output by specifying in the YAML header
+
+[Here is my github page](https://github.com/zerualem/earth_523) for this analysis.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
